@@ -14,10 +14,12 @@ Install the dependencies and start the server.
 ```sh
 $ npm i
 $ npm start
-$ node creator.js
 ```
 
+![alt_text](https://i.ibb.co/FByRQRz/Screenshot-2020-11-01-111918.png)
 
 ![alt text](https://i.ibb.co/ynj3W97/Screenshot-2020-11-01-110706.png)
+
+
 
 
