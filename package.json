@@ -4,7 +4,7 @@
   "description": "Typescript project(file) creator",
   "main": "creator.js",
   "scripts": {
-    "start": "nodemon creator.js",
+    "start": "node creator.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Muritala David",
