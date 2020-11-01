@@ -9,7 +9,7 @@ Creator is a tool that helps you create a basic route, controller and model for 
 
 Creator requires [Node.js](https://nodejs.org/) v4+ to run.
 
-Install the dependencies and devDependencies and start the server.
+Install the dependencies and start the server.
 
 ```sh
 $ npm i
