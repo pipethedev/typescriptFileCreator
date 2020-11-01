@@ -1,0 +1,16 @@
+{
+  "name": "creator",
+  "version": "1.0.0",
+  "description": "Typescript project(file) creator",
+  "main": "creator.js",
+  "scripts": {
+    "start": "nodemon creator.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muritala David",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "readline": "^1.3.0"
+  }
+}
